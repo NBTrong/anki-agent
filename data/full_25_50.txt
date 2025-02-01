@@ -1,0 +1,1089 @@
+見ます、診ます		"""chuẩn đoán, khám bệnh"""			True	
+探します、捜します		tìm kiếm			True	
+時間に遅れます		chậm, muộn giờ			True	
+時間に間に合います		kịp			True	
+やります		làm			True	
+拾います		nhặt, lượm			True	
+連絡します		liên lạc			True	
+気分が良い		"""cảm thấy thoải mái,cảm thấy khoẻ"""			True	
+気分が悪い		ko thoải mái, không khoẻ			True	
+運動会		hội thi thể thao			True	
+盆踊り		múa Bon			True	
+フリーマーケット		chợ đồ cũ, chợ trời			True	
+場所		địa điểm, nơi			True	
+ボランティア		tình nguyện viên			True	
+財布		ví			True	
+ごみ		rác			True	
+国会議事堂		toà nhà quốc hội			True	
+平日		ngày thường			True	
+~弁		tiếng, giọng~			True	
+今度		lần sau			True	
+ずいぶん		khá là, tương đối			True	
+直接		"""trực tiếp、đi thẳng"""			True	
+いつでも		lúc nào cũng			True	
+どこでも		ở đâu cũng			True	
+誰でも		ai cũng			True	
+なんでも		cái gì cũng			True	
+こんな〜		như thế này			True	
+そんな〜		như thế đó			True	
+あんな〜		như thế kia			True	
+荷物が片付けます		dọn dẹp đồ đạc			True	
+ゴミを出します		đổ rác			True	
+燃えるゴミ		rác cháy được			True	
+置き場		nơi để			True	
+横		bên cạnh			True	
+瓶		chai			True	
+缶		lon			True	
+ガス		ga			True	
+〜会社		công ty			True	
+宇宙		vũ trụ			True	
+〜様		ông, bà, ngài. kính ngữ của さん			True	
+宇宙船		tàu vũ trụ			True	
+怖い		sợ			True	
+宇宙ステーション		trạm vũ trụ			True	
+違います		khác			True	
+宇宙飛行士		nhà du hành vũ trụ			True	
+飼います		nuôi			True	
+道を走ります		chạy (trên đường)			True	
+山が見えます		nhìn thấy (núi)			True	
+音が聞こえます		nghe thấy (tiếng, âm thanh)			True	
+道ができます		được hoàn thành (con đường)			True	
+教室を開きます		mở, tổ chức (lớp)			True	
+心配(な)		lo lắng			True	
+ベット		thú cưng, động vật nuôi			True	
+鳥		chim			True	
+声		tiếng			True	
+波		sóng			True	
+花火		pháo hoa			True	
+道具		dụng cụ			True	
+クリーニング		giặt là			True	
+家		nhà			True	
+マンション		chung cư			True	
+キッチン		bếp			True	
+〜教室		phòng~			True	
+パーティールーム		phòng tổ chức tiệc			True	
+方		vị, ngài (kính ngữ của 人）			True	
+〜後		~ sau về mặt thời gian)			True	
+〜しか		chỉ ~ (được dùng với thể phủ định)			True	
+他の		khác			True	
+はっきり		rõ ràng			True	
+家具		đồ nội thất trong nhà			True	
+本棚		giá sách			True	
+いつか		lúc nào đó			True	
+建てます		xây			True	
+素晴らしい		tuyệt vời			True	
+子どもたち		bọn trẻ			True	
+大好きな		rất thích			True	
+主人公		nhân vật chính			True	
+形		hình dạng			True	
+不思議(な)		kì lạ			True	
+ポケット		chiếc túi			True	
+例えば		ví dụ			True	
+つけます		gắn			True	
+自由に		tự do, thoải mái			True	
+空		bầu trời			True	
+跳びます		bay			True	
+昔		ngày xưa			True	
+自分		tự mình			True	
+将来		tương lai			True	
+パンが売れます		bán (bánh mì)			True	
+踊ります		múa			True	
+ガムをかみます		nhai, cắn			True	
+選びます		lựa, lựa chọn			True	
+大学に通います		đi học (đại học)			True	
+メモします		ghi lại, memo			True	
+まじめ（な）		nghiêm túc			True	
+熱心（な）		nhiệt tình			True	
+えらい		siêu, giỏi			True	
+ちょうどいい		vừa vặn			True	
+景色		phong cảnh			True	
+美容院		"""thẩm mỹ viện"			True	
+"nơi làm đẹp"""					True	
+台所		bếp			True	
+経験		kinh nghiệm			True	
+形		hình dạng			True	
+色		màu			True	
+味		vị			True	
+ガム		kẹo cao su			True	
+品物		hàng hoá			True	
+値段		giá cả			True	
+給料		lương			True	
+ボーナス		thưởng			True	
+ゲーム		trò chơi			True	
+番組		chương trình			True	
+ドラマ		phim truyền hình			True	
+歌手		ca sĩ			True	
+小説		tiểu thuyết			True	
+小説家		nhà văn, tiểu thuyết gia			True	
+〜家		nhà			True	
+〜機		máy			True	
+息子		con trai mình			True	
+息子さん		con trai người khác			True	
+娘		con gái mình			True	
+娘さん		con gái người khác			True	
+自分		mình			True	
+将来		tương lai			True	
+しばらく		một lúc			True	
+たいてい		thường thì			True	
+それに		hơn nữa			True	
+それで		vì thế			True	
+ちょっとお願いがあるんですが		tôi có chút việc muốn nhờ			True	
+実は		thực ra			True	
+会話		hội thoại			True	
+うーん		ừ			True	
+お知らせ		thông báo			True	
+参加します		tham gia			True	
+日にち		thời gian (ngày)			True	
+土		thứ bảy			True	
+体育館		nhà thi đấu thể thao			True	
+無料		miễn phí			True	
+誘います		mời			True	
+イベント					True	
+ドアが開きます		(cửa) mở			True	
+ドアが閉まります		(cửa) đóng			True	
+電気がつきます		(điện) sáng			True	
+電気が消えます		(điện) tắt			True	
+いすが壊れます		(ghế) hỏng			True	
+コップが割れます		(cốc) vỡ			True	
+木が折れます		(cây) gãy			True	
+紙が破れます		(giấy) rách			True	
+服が汚れます		(quần áo) bẩn			True	
+ポケットがつきます		có gắn (túi)			True	
+ボタンが外れます		(nút) bung, rời			True	
+車が止まります		(xe) dừng, đỗ			True	
+まちがえます		nhầm lẫn			True	
+を落とします		đánh rơi, thả xuống			True	
+かぎがかかります		(khoá) đóng			True	
+ふきます		lau, chùi			True	
+取り替えます		thay			True	
+片付けます		dọn dẹp			True	
+お皿		dĩa			True	
+ちゃわん		bát, chén			True	
+コップ		cốc			True	
+ガラス		ly			True	
+ふくろ		túi			True	
+書類		giấy tờ			True	
+枝		cành cây			True	
+駅員		nhân viên nhà ga			True	
+交番		đồn cảnh sát			True	
+スピーチをします		diễn thuyết			True	
+返事をします		trả lời			True	
+お先にどうぞ		mời ai đó cứ về trước			True	
+今の電車		chuyến tàu điện vừa chạy qua			True	
+忘れ物		đồ bỏ quên			True	
+このくらい		tầm này, khoảng chừng này			True	
+〜がわ		phía~			True	
+ポケット		túi			True	
+〜辺		chỗ~			True	
+覚えていません		tôi không nhớ			True	
+網棚		giá để hành lí			True	
+確か		chắc là			True	
+ああ、よかった		tốt quá			True	
+地震		động đất			True	
+壁		tường			True	
+針		kim đồng hồ			True	
+指します		chỉ			True	
+駅前		trước gia			True	
+倒れます		đổ			True	
+西		phía tây			True	
+〜の方		bên~			True	
+燃えます		cháy			True	
+レポーター		phóng viên			True	
+はります		dán			True	
+掛けます		treo			True	
+かざります		trang trí			True	
+並べます		sắp xếp			True	
+植えます		trồng			True	
+戻します		để lại			True	
+まとめます		thu dọn (hành lí)			True	
+しまいます		cất			True	
+決めます		quyết định			True	
+予習します		chuẩn bị bài			True	
+復習します		ôn tập			True	
+そのままにします		để nguyên như thế			True	
+授業		giờ học			True	
+講義		bài giảng			True	
+ミーティング		cuộc họp			True	
+予定		dự định, kế hoạch			True	
+お知らせ		thông báo			True	
+ガイドブック		sách hướng dẫn du lịch			True	
+カレンダー		lịch			True	
+ポスター		poster			True	
+予定表		lịch làm việc			True	
+ゴミ箱		thùng rác			True	
+人形		búp bê			True	
+花瓶		bình hoa, lọ qua			True	
+鏡		gương			True	
+引き出し		ngăn héo			True	
+玄関		lối vào nhà, sảnh vào nhà			True	
+廊下		hành lang			True	
+壁		tường			True	
+池		ao, hồ			True	
+元のところ		chỗ cũ			True	
+周り		xung quanh			True	
+真ん中		chính giữa			True	
+隅		góc			True	
+まだ		vẫn			True	
+リュック		ba lô			True	
+非常袋		túi khẩn cấp (dựng vật dụng trong trường hợp khẩn cấp)			True	
+非常時		trường hợp khẩn cấp			True	
+生活します		sinh hoạt, sống			True	
+懐中電灯		đèn pin			True	
+〜とか、〜とか		như là~, như là~			True	
+丸い		tròn			True	
+ある〜		~ nọ			True	
+夢を見ます		mơ			True	
+嬉しい		vui			True	
+嫌（な）		ghét, không thích			True	
+すると		khi dó			True	
+目が覚めます		thức giấc, tỉnh giấc			True	
+続けます		tiếp tục			True	
+見つけます		tìm			True	
+休みをとります		xin (nghỉ)			True	
+試験を受けます		dự (thi)			True	
+申し込みます		đăng kí			True	
+休憩します		nghỉ giải lao			True	
+連休		ngày nghỉ liên tục			True	
+作文		bài tập làm văn			True	
+発表		phát biểu			True	
+展覧会		cuộc triển lãm			True	
+結婚式		lễ cưới			True	
+お葬式		đám tang			True	
+式		lễ			True	
+本社		trụ sở chính			True	
+支店		chi nhánh			True	
+教会		nhà thờ			True	
+大学院		cao học			True	
+動物園		sở thú			True	
+温泉		suối nước nóng			True	
+帰り		chiều về			True	
+お子さん		con (dùng nói về con ngừoi khác)			True	
+~ の方		phía			True	
+〜号		số hiệu~			True	
+ずっと		suốt			True	
+残ります		ở lại, còn			True	
+入学試験		kì thi đầu vào			True	
+月に		(trong) một tháng			True	
+村		làng			True	
+卒業します		tốt nghiệp			True	
+映画館		rạp phim			True	
+嫌（な）		chán			True	
+空		bầu trời			True	
+閉じます		nhắm			True	
+都会		thành phố			True	
+子どもたち		trẻ con, bọn trẻ			True	
+自由に		thoải mái			True	
+運動します		vận động			True	
+成功します		thành công			True	
+試験に失敗します		trượt (kì thi)			True	
+試験に合格します		đỗ (kì thi)			True	
+雨がやみます		tạnh mưa			True	
+晴れます		quang dãng			True	
+曇ります		có mây			True	
+熱が続きます		sốt kéo dài			True	
+かぜをひきます		bị cảm			True	
+冷やします		làm mát, làm lạnh			True	
+道が込みます		đường đông			True	
+道がすきます		đường vắng			True	
+試合に出ま tham gia trận dấu					True	
+パーティーに出ます dự tiệc					True	
+無理をします		gắng sức			True	
+十分（な）		đủ			True	
+おかしい		kì lạ, thú vị			True	
+うるさい		ồn ào			True	
+先生		bác sĩ			True	
+やけどをします		bỏng			True	
+けがをします		bị thương			True	
+"""せきをします"					True	
+"せきが出ます"""		ho			True	
+インフルエンザ		cúm			True	
+空		bầu trời			True	
+太陽		mặt trời			True	
+星		sao			True	
+かぜ		gió			True	
+東		đông			True	
+西		tây			True	
+南		nam			True	
+北		bắc			True	
+〜国際					True	
+水道		nước máy			True	
+エンジン		động cơ			True	
+チーム		đội			True	
+今夜		tối nay			True	
+夕方		chiều tối			True	
+まえ		trước			True	
+遅く		muộn			True	
+こんなに		như thế này			True	
+そんなに		như thế đó, như thế đấy (những điều, vật liên quan đến người nghe)			True	
+あんなに		như thế kia (những điều, vật không liên quan đến cả người nghe và người nói)			True	
+ヨーロッパ		châu Âu			True	
+元気		khoẻ			True	
+胃		dạ dày			True	
+ストレス		căng thẳng			True	
+それはいけませんね		thế thì ko được, ko tốt			True	
+星占い		bói sao			True	
+牡牛座		sao Kim ngưu			True	
+働きすぎ		làm việc quá sức			True	
+困ります		khó khăn			True	
+宝くじ		vé sổ, sổ xố			True	
+宝くじが当たります		trúng số			True	
+健康		sức khoẻ			True	
+恋愛		tình yêu			True	
+恋人		người yêu			True	
+ラッキーアイテム		thức được cho làm đem lại vận may trong bói toán			True	
+石		hòn đó, viên đá			True	
+逃げます		trốn			True	
+騒ぎます		làm ồn			True	
+諦めます		bỏ cuộc, từ bỏ			True	
+投げます		ném			True	
+守ります		"""giữ (lời hứa) tuân thủ (quy tắc)"""			True	
+式が始まります		bắt đầu (lễ)			True	
+会議に出席します		tham dự (họp）			True	
+伝えます		nói lại, truyền đại lại			True	
+車に注意します		chú ý (xe ô tô)			True	
+席を外します		rời (ghế)			True	
+戻ります		trở lại, quay trở lại			True	
+電話があります		có điện thoại			True	
+リサイクルします		tái chế			True	
+だめ（な）		không được			True	
+同じ		giống			True	
+警察		đồn cảnh sát			True	
+席		ghế, chỗ (ngồi)			True	
+マーク		kí hiệu			True	
+ボール		bóng			True	
+締切		hạn chót, hạn cuối			True	
+規則		quy tắc			True	
+危険		nguy hiểm			True	
+使用禁止		cấm sử dụng			True	
+立入禁止		cấm vào			True	
+徐行		chạy chậm, đi chậm			True	
+入口		lối vào			True	
+出口		lối ra			True	
+非常口		cửa thoát hiểm			True	
+無料		miễn phí			True	
+割引		giảm giá			True	
+飲み放題		buffet nước			True	
+使用中		đang sử dụng			True	
+募集中		đang tuyển			True	
+〜中		đang~			True	
+どういう〜		~như thế nào			True	
+いくら（〜ても）		(dù có) ~ bao nhiêu đi nữa			True	
+もう		nữa (dùng với thể phủ định)			True	
+後〜		còn ~			True	
+〜ほど		khoảng ~			True	
+駐車違反		đỗ xe sai quy định			True	
+罰金		tiền phạt			True	
+地震		động đất			True	
+起きます		xảy ra			True	
+助け合います		giúp đỡ lẫn nhau			True	
+元々		vốn là, nguyên là			True	
+悲しい		buồn			True	
+もっと		hơn			True	
+挨拶をします		chào hỏi			True	
+相手		đối phương			True	
+気持ち		tâm trạng			True	
+歯を磨きます		"""đánh răng, đánh giày"""			True	
+組み立てます		lắp ráp			True	
+折ります		gập, bẻ			True	
+忘れ物に気がつきます		để ý đến, chú ý đến			True	
+しょうゆをつけます		chấm xì dầu			True	
+かぎが見つかります		tìm thấy (chìa khoá)			True	
+質問します		hỏi			True	
+傘をさします		che (ô)			True	
+スポッツクラブ		câu lạc bộ thể thao			True	
+（お）城		thành			True	
+説明書		sách hướng dẫn			True	
+図		hình vẽ minh hoa			True	
+線		đường kẻ			True	
+矢印		mũi tên (kí hiệu)			True	
+黒		màu đen			True	
+白		màu trắng			True	
+赤		màu đỏ			True	
+青		màu xanh			True	
+紺		màu xanh sẫm			True	
+黄色		màu vàng			True	
+茶色		màu nâu			True	
+しょうゆ		xì dầu			True	
+ソール		nước sốt			True	
+お客（さん）		vị khách			True	
+〜 か 〜		hay là			True	
+ゆうべ		tối qua			True	
+さっき		lúc nãy			True	
+茶道		trà đạo			True	
+お茶を建てます		đánh trà			True	
+先に		trước			True	
+載せます		để lên			True	
+これでいいですか		như thế này có được không			True	
+いかがですか		như thế nào ạ			True	
+苦い		đắng			True	
+親子どんぶり		món cơm gồm có thịt gà và trứng để trong tô lớn			True	
+材料		nguyên liệu			True	
+〜分		phần ~ (biểu thị lượng)			True	
+ーグラム		gram			True	
+ー個		cái			True	
+玉ねぎ		hành tây			True	
+４分の１		một phần tư			True	
+調味料		gia vị			True	
+適当な大きさに		độ lớn thích hợp			True	
+なべ		nồi			True	
+火		lửa			True	
+火にかけます		bắc lên bếp			True	
+煮ます		nấu			True	
+煮えます		chín			True	
+どんぶり		bát tô lớn			True	
+たちます		trôi qua (thời gian)			True	
+花が咲きます		(hoa) nở			True	
+色が変わります		(màu) thay đổi			True	
+困ります		khó khăn			True	
+まるをつけます		đánh dầu tròn			True	
+病気が治ります		khỏi bệnh			True	
+故障が直ります		được sửa xong			True	
+クリックします		click chuột			True	
+入力します		nhập vào			True	
+正しい		đúng			True	
+向こう		đằng ấy, phía đối diện			True	
+しま		đảo			True	
+港		cảng			True	
+近所		hàng xóm			True	
+屋上		tầng thượng			True	
+海外		nước ngoài			True	
+山登り		leo núi			True	
+歴史		lịch sử			True	
+機会		cơ hội			True	
+許可		sự cho phép			True	
+丸		dấu tròn			True	
+ふりがな		chữ kana biểu thị cách đọc của chữ Hán			True	
+設備		thiết bị			True	
+レバー		cần, cần gạt			True	
+キー		phím			True	
+カーテン		rèm cửa			True	
+ひも		sợi dây			True	
+炊飯器		nồi cơm điện			True	
+葉		lá			True	
+昔		ngày xưa			True	
+もっと		hưn nữa			True	
+これで終わりましょう		chúng ta dừng ở đây nhé			True	
+それなら		nếu thế thì, nếu vây thì			True	
+夜行ブス		xe bus đêm			True	
+さあ		à, ờ, dùng ở đâu câu			True	
+旅行社		công ty du lịch			True	
+詳しい		cụ thể, chi tiết			True	
+スキー場		khu trượt tuyết			True	
+朱		màu đỏ tươi			True	
+ことわざ		chơi vơi, quen với			True	
+関係		quan hệ			True	
+仲良くします		chơi thân			True	
+必要（な）		cần thiết			True	
+事故にあいます		gặp (tai nan)			True	
+貯金します		tiết kiệm tiền			True	
+７時をすぎます		quá (7 giờ)			True	
+仕事に慣れます		quen với công việc			True	
+食べ物が腐ります		bị hỏng, bị thiu, bị ôi			True	
+剣道		kiếm đạo			True	
+柔道		Judo			True	
+ラッシュ		tăc đường			True	
+宇宙		vũ trụ			True	
+曲		ca khúc, bản nhạc			True	
+毎週		hàng tuần			True	
+毎月		hàng tháng			True	
+毎年		hàng năm			True	
+このごろ		dạo này			True	
+やっと		cuối cùng thì cũng			True	
+かなり		khá			True	
+必ず		nhất định			True	
+絶対に		tuyệt vời			True	
+上手に		giỏi			True	
+できるだけ		trong khả năng có thể			True	
+ほとんど		"""hầu hết, phần lớn (trong câu khẳng định, gần nhuư hoàn toàn (trong câu phủ định)"""			True	
+お客様		quý khách			True	
+特別（な）		đặc biệt			True	
+していらっしゃいます		đang làm			True	
+水泳		bơi			True	
+違います		khác nhau			True	
+使っていらっしゃするんですね		đang dùng			True	
+チャレンジします		thử sức, thử làm			True	
+気持ち		tâm thế			True	
+乗り物		phương tiện đi lại			True	
+ー世紀		thế kỉ			True	
+遠く		nơi xa			True	
+珍しい		hiếm			True	
+汽車		tàu lửa chạy			True	
+汽船		tàu thuỷ chạy bằng hơi nước			True	
+大勢の〜		nhiều ~ (dùng cho người)			True	
+運びます		vận chuyển			True	
+利用します		sử dụng			True	
+理由に		thoải mái			True	
+褒めます		khen			True	
+しかります		mắng			True	
+誘います		mời, rủ			True	
+招待します		mời			True	
+頼みます		nhờ			True	
+注意します		nhắc nhở			True	
+とります		lấy cắp			True	
+踏みます		dẫm			True	
+壊します		làm hỏng			True	
+汚します		làm bẩn			True	
+行います		tổ chức			True	
+輸出します		xuất khẩu			True	
+輸入します		nhập khẩu			True	
+翻訳します		biên dịch			True	
+発明します		giải thích, thuyết trình			True	
+発見します		phát hiện			True	
+米		gạo			True	
+麦		lúa mạch			True	
+石油		dầu mỏ			True	
+原料		nguyên liệu			True	
+インスタントラーメン		mỳ ăn liền, mì gói			True	
+デート		hẹn hò			True	
+泥棒		kẻ trộm			True	
+警官		cảnh sát			True	
+世界中		trên toàn thế giới			True	
+〜中		~ toàn			True	
+〜世紀		~ thế kỉ			True	
+なに語		tiếng gì			True	
+誰か		ai đó			True	
+よかったですか		hay quá nhỉ / vui quá nhỉ			True	
+皆様		quý vị			True	
+うちが焼けます		cháy (nhà)			True	
+その後		sau đó			True	
+世界遺産		di sản thế giới			True	
+〜の一つ		một trong nhữung			True	
+金色		màu (của) vàng			True	
+本物		đồ thật			True	
+金色		vàng			True	
+ーキロ		~ kilogram			True	
+美しい		đẹp			True	
+豪華（な）		sang trọng, hoành tráng			True	
+彫刻		điêu khắc			True	
+言い伝え		truyền thuyết			True	
+眠ります		ngủ			True	
+彫ります		khắc			True	
+仲間		đồng nghiệo			True	
+しかし		nhưng			True	
+そのあと		sau đó			True	
+一生懸命		chăm chỉ, gắng hết sức			True	
+ねずみ		chuột			True	
+一匹もいません		không có một con nào cả			True	
+旅行に参加します		tham gia (đi du lịch)			True	
+育てます		chăm sóc			True	
+運びます		vận chuyển			True	
+入院します		nhập viện			True	
+退院します		ra viện			True	
+電源を入れます		bật (điện nguồn)			True	
+電源を切ります		tắt (điện nguồn)			True	
+鍵をかけます		khoá (ổ khoá)			True	
+嘘をつきます		nói dối			True	
+気持ちがいい		tâm trạng tốt			True	
+気持ちが悪い		tâm trạng không tốt			True	
+大きな		lớn, to			True	
+小さな		bé, nhỏ			True	
+赤ちゃん		em bé			True	
+小学校		trường tiểu học			True	
+中学校		trường trung học			True	
+駅前		trước ga			True	
+海岸		bờ biển			True	
+工場		nhà máy			True	
+村		làng			True	
+かな		chữ Kana			True	
+指輪		nhẫn			True	
+電源		điện nguồn			True	
+習慣		thói quen, tập quán			True	
+健康		sức khoẻ			True	
+〜 製		hàng~			True	
+おととし		năm kia			True	
+（あ）いけない		"""không được ròi (dùng khi làm nhầm hay thất bại việc gì đó)"""			True	
+お先に（失礼します）		tôi xin phép về trước			True	
+回覧		tài liệu thông báo			True	
+研究室		phòng nghiên cứu			True	
+きちんと		ngay ngắn			True	
+整理します		sắp xếp			True	
+方法		phương pháp			True	
+〜という		có tên gọi là ~			True	
+ー冊		quyển, cuốn			True	
+はんこ		con dấu			True	
+はんこを押します		đóng dấu			True	
+双子		sinh đôi			True	
+姉妹		chị em			True	
+５年生		năm thứ 5			True	
+似ています		giống			True	
+性格		tính cách			True	
+おとなしい		ngoan ngoãn			True	
+優しい		hiền lành			True	
+世話をします		chăm sóc			True	
+時間が経ちます		thời gian trôi			True	
+最好き（な）		rất thích			True	
+ー点		điểm			True	
+気が強い		tính cách mạnh mẽ			True	
+けんかします		cãi nhau			True	
+不思議（な）		kỳ lạ			True	
+年齢		tuổi tác			True	
+しかた		cách làm			True	
+質問に答えます		trả lời (câu hỏi)			True	
+ビルが倒れます		đổ (toà nhà)			True	
+道を通ります		đi (xuyên) qua đường			True	
+死にます		chết			True	
+びっくりします		giật mình			True	
+がっかりします		thất vọng			True	
+安心します		yên tâm			True	
+けんかします		cãi nhau			True	
+離婚します		li hôn			True	
+太ります		béo ra			True	
+やせます		gầy đi			True	
+複雑な		phức tạp			True	
+邪魔な		vướng víu, vướng			True	
+硬い		cứng			True	
+柔らかい		mềm			True	
+汚い		bẩn			True	
+嬉しい		vui			True	
+悲しい		buồn			True	
+恥ずかしい		xấu hổ, ngượng			True	
+首相		thủ tướng			True	
+地震		động đất			True	
+津波		sóng thần			True	
+台風		bão			True	
+雷		sấm			True	
+火事		hoả hoạn			True	
+事故		tai nạn, sự số			True	
+ハイキング		dã ngoại			True	
+お見合い		xem mặt (để kết hôn)			True	
+操作をします		thao tác			True	
+会場		hội trường			True	
+〜代		~ phí, tiền ~			True	
+〜屋		người bán ~			True	
+フロント		lễ tân			True	
+ー号室		số phòng ~			True	
+タオル		khăn tắm			True	
+せっけん		xà phòng			True	
+大勢		nhiều người			True	
+お疲れ様でした		anh chị đã vất vả quá			True	
+伺います		"""tôi sẽ đi đến chỗ anh chị khiêm của 行きます"""			True	
+途中で		trên đường			True	
+トラック		xe tải			True	
+ぶつかります		đâm nhau			True	
+大人		người lớn			True	
+しかし		nhưng			True	
+また		hơn nữa, và			True	
+洋服		áo quần			True	
+西洋化します		Âu Mỹ hoá			True	
+合います		phù hợp (với)			True	
+今では		bây giờ, hiện nay			True	
+成人式		lễ thành nhân			True	
+伝統的		mang tính truyền thống			True	
+数えます		đếm			True	
+はかります		đo, cân			True	
+確かめます		xác nhận			True	
+サイズが合います		vừa (cỡ)			True	
+出発します		xuất phát			True	
+到着します		đến			True	
+酔います		say rượu			True	
+うまく行きます		thuận lợi			True	
+問題が出ます		có (nội dung câu hỏi thi/0			True	
+相談します		nói chuyện, thảo luận			True	
+必要な		cần thiết			True	
+天気予報		dự báo thời tiết			True	
+忘年会		tiệc cuối năm, tiệc tất niên			True	
+新見解		tiệc đầu năm			True	
+二次会		tăng hai, hiệp hai			True	
+発表会		buổi phát biểu			True	
+大会		hội thi, cuộc thi			True	
+マラソン		ma-ra-tông			True	
+コンテスト		cuộc thi			True	
+おもて		mặt phải			True	
+裏		mặt trái			True	
+間違い		sai sót			True	
+きず		vết thương			True	
+ズボン		quần			True	
+お年寄り		người già, người cao tuổi			True	
+長さ		chiều dài			True	
+重さ		trọng lượng			True	
+高さ		chiều cao			True	
+大きさ		kích thước, độ lớn			True	
+ー便		chuyến			True	
+ー個		- cái, - chiếc (trợ số từ dùng để đếm vật nhỏ)			True	
+ー本		"""- cái, - cây, - chiếcvật có hình dạng thon dài"""			True	
+ー杯		- cốc, - ly			True	
+ーセンチ		- xăng ti mét			True	
+ーミリ		- milimet			True	
+ーグラム		- gram			True	
+〜以上		trên ~			True	
+〜以下		dưới ~			True	
+どうでしょうか		như thế nào ạ			True	
+テスト		bài kiểm tra			True	
+成績		thành tích			True	
+ところで		nhân tiện			True	
+いらっしゃいます		đến (kính ngữ きます）			True	
+様子		bộ dạng, tình hình			True	
+事件		vụ án			True	
+オートバイ		mô tô phân khối lớn			True	
+爆弾		bom			True	
+積みます		chất lên			True	
+運転手		tài xế, lái xe			True	
+離れた		xa, cách xa			True	
+急に		đột nhiên			True	
+動かします		di chuyển			True	
+一生懸命		chăm chỉ, gắng hết sức			True	
+犯人		tên tội phạm			True	
+男		người đàn ông			True	
+手に入れます		có được, mua được			True	
+今でも		ngay cả bây giờ			True	
+いただきます		nhận (khiêm nhường của もらいます）			True	
+くださいます		cho (kính ngữ của くれます)			True	
+やります		cho (dùng với người kém tuổi hơn, người dưới, động vật, thực vật)			True	
+上げます		tăng			True	
+下げます		giảm			True	
+親切にします		thân thiện, thân thiết			True	
+可愛い		dễ thương			True	
+珍しいい		hiếm			True	
+お祝い		chúc mừng, quà mừng （をします）			True	
+お年玉		tiền mừng tuổi			True	
+お見舞い		thăm hỏi, quà thăm hỏi			True	
+kpopに興味がある		hứng thú với, có quan tâm đến			True	
+情報		thông tin			True	
+文法		ngữ pháp			True	
+発音		phát âm			True	
+さる		con khỉ			True	
+えさ		thức ăn			True	
+おもちゃ		đồ chơi			True	
+絵本		sách tranh			True	
+絵はがき		bưu thiếp tranh, bưu thiếp ảnh			True	
+ドライバー		tua vít			True	
+ハンカチ		khăn tay			True	
+靴下		tất, vớ			True	
+手袋		găng tay			True	
+幼稚園		trường mầm non			True	
+暖房		máy sưởi			True	
+冷房		máy lạnh			True	
+温度		nhiệt độ			True	
+祖父		ông mình			True	
+祖母		bà mình			True	
+孫		cháu mình			True	
+お孫さん		cháu người khác			True	
+おじ		chú, bác mình			True	
+おじさん		chú người khác			True	
+おば		cô, dì, bác mình			True	
+おばさん		cô, dì bác người khác			True	
+管理人		người quản lí			True	
+〜さん		ông~/bà~ (tiếp vĩ ngữ dùng đằng sau tên nghề nghiệp, chức danh để biểu thị tính lịch sự)			True	
+この間		vừa rồi			True	
+一言		đôi lời			True	
+〜ずつ		từng~			True	
+二人		cặp đôi, hai người			True	
+お宅		nhà (kính ngữ của うち いえ）			True	
+どうぞお幸せに		chúc hai người hạnh phúc			True	
+昔話		truyện cổ tích			True	
+ある〜		một ~ nọ			True	
+男		người con trai			True	
+子供たち		những đứa trẻ, bọn trẻ			True	
+いじめます		bắt nạt			True	
+かめ		con rùa			True	
+助けます		giúp, giúp đỡ			True	
+優しい		hiền lành			True	
+お姫様		nàng công chúc			True	
+暮らします		sinh sống			True	
+陸		đất liền			True	
+すると		khi đó			True	
+煙		khói			True	
+真っ白（な）		trắng toát			True	
+中身		đồ ở bên trong			True	
+包みます		gói			True	
+沸かします		đun sôi			True	
+混ぜます		trộn			True	
+計算します		tính toán			True	
+並びます		xếp hàng			True	
+丈夫（な）		chắc chắn			True	
+アパート		phòng trọ			True	
+弁護士		luật sư			True	
+音楽家		nhạc, người hoạt động trong lĩnh vực âm nhạc			True	
+子供たち		những đứa trẻ, bọn trẻ			True	
+自然		tự nhiên			True	
+教育		giáo dục			True	
+文化		văn hoá			True	
+社会		xã hội			True	
+政治		chính trị			True	
+法律		pháp luật			True	
+戦争		chiến tranh			True	
+平和		hoà bình			True	
+目的		mục đích			True	
+論文		luận văn			True	
+楽しみ		niềm vui			True	
+ミキサー		máy xay			True	
+やかん		ấm đun nước			True	
+ふた		nắp			True	
+栓抜き		cái bật nắp chai			True	
+缶切り		cái mở nắp hộp			True	
+缶積み		đồ hộp, thực phẩm đóng hộp			True	
+のし袋		phong bì dùng để bỏ tiền mừng			True	
+ふろしき		khăn vuông để gói đồ kiểu Nhật			True	
+そろばん		bàn bính			True	
+体温計		nhiệt kế			True	
+材料		nguyên liệu			True	
+ある〜		một ~ nọ			True	
+一生懸命		chăm chỉ, gắng hết sức			True	
+なぜ		tại sao			True	
+どのくらい		bao nhiêu			True	
+国連		Liên Hợp Quốc			True	
+子供ニュース		bản tin thiếu nhi			True	
+ボーナスが出ます		có (thưởng)			True	
+半分		một nửa			True	
+ローン		khoản vay ngân hàng			True	
+カップめん		mỳ ăn liền			True	
+世界初		đầu tiên trên thế giới			True	
+〜によって		bởi ~			True	
+どんぶり		bát tô lớn			True	
+めん		mì sợi			True	
+広めます		phổ cập, nhân rộng, mở rộng			True	
+市場調査		điều tra thị trường			True	
+割ります		bẻ ra, chia nhỏ ra			True	
+注ぎます		đổ vào			True	
+輸出が増えます		xuất khẩu tăng			True	
+輸出が減ります		xuất khẩu giảm			True	
+値段が上がります		giá cả tăng			True	
+値段が下がります		giá cả giảm			True	
+ひもが切れます		sợi dây bị đứt			True	
+ボタンがとれます		cúc áo bị đứt			True	
+荷物が落ちます		hành lí bị rơi			True	
+ガソリンがなくなります		xăng hết, mất			True	
+変（な）		lạ			True	
+幸せ（な）		hạnh phúc			True	
+楽（な）		nhàn, nhàn nhã			True	
+うまい		ngon			True	
+まずい		dở			True	
+つまらない		chán, không hay			True	
+優しい		hiền lành			True	
+ガソリン		xăng			True	
+火		lửa			True	
+パンフレット		tờ rơi quảng cáo			True	
+今にも		bất kì lúc nào (dùng miêu tả trạn thái ngay trước khi biến đổi xảy ra			True	
+わあ					True	
+ばら		hoa hồng			True	
+ドライバ		lái xe ô tô (sở thích)			True	
+理由		lí do			True	
+謝ります		xin lỗi			True	
+知り合います		quen biết			True	
+泣きます		khóc			True	
+笑います		cười			True	
+眠ります		ngủ			True	
+シャツが乾きます		(áo sơ mi) khô			True	
+シャツがぬれます		(áo sơ mi) ướt			True	
+滑ります		trượt			True	
+事故が起きます		(tai nạn) xảy ra			True	
+調節します		điều chỉnh			True	
+安全（な）		an toàn			True	
+危険（な）		nguy hiểm			True	
+濃い		đặc, đậm			True	
+薄い		loãng, nhạt			True	
+厚い		dày			True	
+太い		đậm, béo			True	
+細い		nhạt, gầy			True	
+空気		không khí			True	
+涙		nước mắt			True	
+和食		món ăn kiểu Nhật			True	
+洋食		món ăn kiểu Tây			True	
+量		lượng			True	
+ー倍		gấp ~ lần			True	
+シングル		phòng đơn			True	
+ツイン		phòng đôi			True	
+洗濯物		đồ giặt			True	
+DVD		DVD			True	
+どうなさいますか		chị muốn làm gì			True	
+カット		cắt tóc			True	
+シャンプ		dầu gội			True	
+シャンプをします		gội đầu			True	
+どういうふうになさいますか		chị muốn cắt như thế nào			True	
+ショート		cắt ngắn			True	
+〜みたいにしてください		anh hãy cắt như ~			True	
+これでよろしいですか		như thế này được chưa aj			True	
+どうもお疲れ様でした		xong rồi ạ, cám ơn chị (nhân viên nói với khách hàng			True	
+嫌がります		ghét, không thích			True	
+また		hơn nữa			True	
+うまく		tốt, giỏi			True	
+順序		trình tự			True	
+安心（な）		yên tâm			True	
+表現		biểu hiện, cách nói			True	
+例えば		ví dụ			True	
+別れます		chia tay			True	
+これら		những từ này			True	
+縁起が悪い		xui, không may			True	
+信じます		tin			True	
+キャンセルします		huỷ			True	
+知らせます		thông báo			True	
+保証書		phiếu bảo hành			True	
+領収書		hoá đơn			True	
+キャンプ		cắm trại			True	
+中止		huỷ			True	
+点		điểm, điểm số			True	
+梅		hoa mơ			True	
+１１０番		sđt báo cảnh sát			True	
+１１９番		sđt báo cháy			True	
+急に		đội nhiên			True	
+無理に		cố, gắng (làm không hợp lí)			True	
+楽しみにしています		tôi rất mong chờ			True	
+以上です		xin hết			True	
+係員		người phụ trách			True	
+コース		đường chạy ma-ra-tông			True	
+スタート		xuất phát			True	
+ー位		thứ -			True	
+優勝します		chiến thắng			True	
+悩み		điều bận tậm, điều khổ tâm			True	
+目指し（時計）		(đồng hồ) báo thức			True	
+目が覚めます		tỉnh giấc, thức giấc			True	
+大学生		sinh viên đại học			True	
+回答		câu trả lời			True	
+鳴ります		kêu			True	
+セットします		đặt (giờ)			True	
+それでも		kể cả như thế, mặc dù như thế			True	
+渡します		đưa, trao			True	
+帰ってきます		trở về			True	
+バスが出ます		xuất phát, rời bến (xe bus~)			True	
+荷物が届きます		(hành lí) đến			True	
+大学に入学します		nhập học đai học			True	
+大学を卒業します		tốt nghiệp đaị học			True	
+焼きます		nướng			True	
+パンが焼けます		nướng chín (bánh mì ~)			True	
+肉が焼けます		nước chín (thịt ~)			True	
+留守		vắng nhà, đi vắng			True	
+宅配便		hàng được chuyển phát tận nhà, dịch vụ			True	
+原因		nguyên nhân			True	
+こちら		phía tôi, tôi			True	
+〜のところ		chỗ ~			True	
+半年		nửa năm			True	
+ちょうど		vừa đúng, đúng			True	
+たった今		vừa mới (dùng với thể quá khứ, biểu thị sự hoàn thành			True	
+今いいですか		bây giờ có nói chuyện được không			True	
+ガスサービスセンタ		trung tâm dịch vụ cung ứng ga			True	
+ガスレンジ		bếp ga			True	
+具合		tình trạng, trạng thái			True	
+申し訳ありません		xin lỗi			True	
+どちら様でしょうか		ai đấy ạ			True	
+お待たせしました		xin lỗi đã bắt anh/chị chờ lâu			True	
+向かいます		đi đến đấy			True	
+ついています		may mắn			True	
+床		sàn			True	
+転びます		ngã			True	
+ベル		chuông cửa			True	
+鳴ります		reng, kêu			True	
+慌てて		vội vàng			True	
+順番に		theo thứ tự			True	
+出来事		sự việc			True	
+風が吹きます		gió thổi			True	
+ゴミが燃えます		rác cháy			True	
+なくなります		qua đời (từ nói tránh của 死にます）			True	
+人が集まります		tập trung (người ~)			True	
+人が別れます		chia tay (người~)			True	
+音/声がします		có tiếng/ âm thanh			True	
+味がします		có vị			True	
+匂いがします		có mùi			True	
+厳しい		nghiêm khắc			True	
+ひどい		khủng khiếp			True	
+怖い		sợ đáng sợ			True	
+実験		thực nghiệm			True	
+データ		dữ liệu			True	
+人口		dân số			True	
+匂い		mùi			True	
+科学		khoa học			True	
+医学		y học			True	
+文学		văn học			True	
+パトカー		xe tuần tra cảnh sát			True	
+救急車		xe cấp cứu			True	
+賛成		tán thành			True	
+反対		phản đổi			True	
+大統領		tổng thống			True	
+〜によると		theo ~ (biểu thị nguồn thông tin)			True	
+婚約します		đính ước, ăn hỏi			True	
+どうも		có vẻ như (được dùng khi biểu thị sự suy đoán)			True	
+恋人		người yêu			True	
+相手		đối phương, hôn phu, hôn thê			True	
+知り合います		quen biết			True	
+化粧をします		trang điểm			True	
+世話をします		chăm sóc			True	
+女性		phụ nữ, nữ			True	
+男性		nam giới, nam			True	
+長生きします		thọ, sống lâu			True	
+理由		lí do			True	
+関係		quan hệ			True	
+降ろします		lấy xuống			True	
+届けます		đưa đến, chuyển đến			True	
+世話をします		chăm sóc			True	
+録音します		ghi âm			True	
+いや（な）		chán, không thích			True	
+塾		lò luyện thi, nơi học thêm			True	
+生徒		học sinh			True	
+ファイル		file tài liệu			True	
+自由に		tự do, thoải mái			True	
+〜間		trong khoảng ~			True	
+いいことですね		điều đó hay quá nhỉ			True	
+お忙しいですか		anh/ chị có bận không (được dùng khi hỏi người trên)			True	
+営業		kinh doanh			True	
+それまでに		cho đến lúc đấy			True	
+構いません		không sao			True	
+楽しみます		tận hưởng			True	
+親		bố mẹ			True	
+小学生		học sinh tiểu học			True	
+ーパーセント		- phần trăm			True	
+その次		tiếp theo đó			True	
+習字		học viết chữ bằng bút lông			True	
+普通の		thông thường, bình thường			True	
+利用します		sử dụng			True	
+会社に勤めます		làm việc (ở công ty)			True	
+椅子にかけます		ngồi xuống (ghế)			True	
+過ごします		trải qua			True	
+いらっしゃいます		"""います、行きますở, đi, đến (kính ngữ)"""			True	
+召し上がります		"""食べます、飲みますăn, uống (kính ngữ/9"""			True	
+おっしゃいます		"""言いますnói, tên là (kính ngữ)"""			True	
+なさいます		"""しますlàm (kính ngữ)"""			True	
+ご覧に鳴ります		"""見ますxem (kính ngữ)"""			True	
+ご存じです		"""知っていますbiết (kính ngữ"""			True	
+挨拶		chào hỏi, lời chào mừng			True	
+旅館		nhà khách kiểu Nhật truyền thống			True	
+バス停		bến xe buýt			True	
+奥様		"""奥さん"			True	
+"vợ của người khác (kính ngữ)"""					True	
+〜様		kính ngữ của さん			True	
+たまに		thi thoảng			True	
+どなたでも		"""誰でもvị nào cũng (kính ngữ)"""			True	
+〜と言います		tên là ~			True	
+ー年ー組		tổ - năm thứ -			True	
+熱を出します		bị (sốt)			True	
+よろしくあ伝えください		cho tôi gửi lời hỏi thăm			True	
+失礼致します		"""失礼しますxin phép thầy tôi cúp máy ạ"""			True	
+経歴		lí lịch			True	
+医学部		khoa y			True	
+目指します		hướng đến, muốn trở thành			True	
+進みます		học lên			True	
+iPS細胞		tế bào iPS			True	
+開発します		phát triển			True	
+マウス		chuột			True	
+ヒト		người			True	
+受賞します		nhận giải tưởng			True	
+講演会		buổi nói chuyện			True	
+まいります		"""行きますđi, đến (khiêm nhường)"""			True	
+おります		います			True	
+いただきます		"""食べます、飲みます、もらいますăn, uống, nhận (khiêm nhường)"""			True	
+申します		"""言いますnói, tên là (khiêm nhường)"""			True	
+いたします		"""しますlàm (khiêm nhường)"""			True	
+拝見します		"""見ますnhìn (khiêm nhường)"""			True	
+存じます		"""しりますbiết (khiêm nhường)"""			True	
+伺います		"""聞きます、行きますhỏi, đến thăm (khiêm nhường)"""			True	
+お目にかかります		"""あいますgặp (khiêm nhường)"""			True	
+コーヒーを入れます		pha (cà phê)			True	
+用意します		chuẩn bị sẵn			True	
+私		"""私(khiêm nhường)"""			True	
+ガイド		hướng dẫn viên du lịch			True	
+メールアドレス		dịa chỉ email			True	
+スケジュール		lịch làm việc			True	
+再来週		tuần sau nữa			True	
+再来月		tháng sau nữa			True	
+再来年		năm sau nữa			True	
+はじめに		trước hết, đầu tiên			True	
+緊張します		hồi hộp			True	
+賞金		tiền thưởng			True	
+きりん		hươu cao cổ			True	
+ころ		lúc, thời			True	
+夢がかないます		thành hiện thực (mơ ước ~)			True	
+応援します		động viện			True	
+心から		từ đáy lòng			True	
+感謝します		cám ơn			True	
+お礼		cám ơn			True	
+お元気でいらっしゃいますか		"""お元気ですかanh chị có khoẻ không(kính ngữ)"""			True	
+迷惑をかけます		làm phiền			True	
+生かします		phát huy			True	

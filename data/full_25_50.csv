@@ -1,0 +1,1090 @@
+word,meaning
+見ます、診ます,"chuẩn đoán, khám bệnh"
+探します、捜します,tìm kiếm
+時間に遅れます,"chậm, muộn giờ"
+時間に間に合います,kịp
+やります,làm
+拾います,"nhặt, lượm"
+連絡します,liên lạc
+気分が良い,"cảm thấy thoải mái,cảm thấy khoẻ"
+気分が悪い,"ko thoải mái, không khoẻ"
+運動会,hội thi thể thao
+盆踊り,múa Bon
+フリーマーケット,"chợ đồ cũ, chợ trời"
+場所,"địa điểm, nơi"
+ボランティア,tình nguyện viên
+財布,ví
+ごみ,rác
+国会議事堂,toà nhà quốc hội
+平日,ngày thường
+~弁,"tiếng, giọng~"
+今度,lần sau
+ずいぶん,"khá là, tương đối"
+直接,trực tiếp、đi thẳng
+いつでも,lúc nào cũng
+どこでも,ở đâu cũng
+誰でも,ai cũng
+なんでも,cái gì cũng
+こんな〜,như thế này
+そんな〜,như thế đó
+あんな〜,như thế kia
+荷物が片付けます,dọn dẹp đồ đạc
+ゴミを出します,đổ rác
+燃えるゴミ,rác cháy được
+置き場,nơi để
+横,bên cạnh
+瓶,chai
+缶,lon
+ガス,ga
+〜会社,công ty
+宇宙,vũ trụ
+〜様,"ông, bà, ngài. kính ngữ của さん"
+宇宙船,tàu vũ trụ
+怖い,sợ
+宇宙ステーション,trạm vũ trụ
+違います,khác
+宇宙飛行士,nhà du hành vũ trụ
+飼います,nuôi
+道を走ります,chạy (trên đường)
+山が見えます,nhìn thấy (núi)
+音が聞こえます,"nghe thấy (tiếng, âm thanh)"
+道ができます,được hoàn thành (con đường)
+教室を開きます,"mở, tổ chức (lớp)"
+心配(な),lo lắng
+ベット,"thú cưng, động vật nuôi"
+鳥,chim
+声,tiếng
+波,sóng
+花火,pháo hoa
+道具,dụng cụ
+クリーニング,giặt là
+家,nhà
+マンション,chung cư
+キッチン,bếp
+〜教室,phòng~
+パーティールーム,phòng tổ chức tiệc
+方,"vị, ngài (kính ngữ của 人）"
+〜後,~ sau về mặt thời gian)
+〜しか,chỉ ~ (được dùng với thể phủ định)
+他の,khác
+はっきり,rõ ràng
+家具,đồ nội thất trong nhà
+本棚,giá sách
+いつか,lúc nào đó
+建てます,xây
+素晴らしい,tuyệt vời
+子どもたち,bọn trẻ
+大好きな,rất thích
+主人公,nhân vật chính
+形,hình dạng
+不思議(な),kì lạ
+ポケット,chiếc túi
+例えば,ví dụ
+つけます,gắn
+自由に,"tự do, thoải mái"
+空,bầu trời
+跳びます,bay
+昔,ngày xưa
+自分,tự mình
+将来,tương lai
+パンが売れます,bán (bánh mì)
+踊ります,múa
+ガムをかみます,"nhai, cắn"
+選びます,"lựa, lựa chọn"
+大学に通います,đi học (đại học)
+メモします,"ghi lại, memo"
+まじめ（な）,nghiêm túc
+熱心（な）,nhiệt tình
+えらい,"siêu, giỏi"
+ちょうどいい,vừa vặn
+景色,phong cảnh
+美容院,thẩm mỹ viện
+"""nơi làm đẹp""""""",True
+台所,bếp
+経験,kinh nghiệm
+形,hình dạng
+色,màu
+味,vị
+ガム,kẹo cao su
+品物,hàng hoá
+値段,giá cả
+給料,lương
+ボーナス,thưởng
+ゲーム,trò chơi
+番組,chương trình
+ドラマ,phim truyền hình
+歌手,ca sĩ
+小説,tiểu thuyết
+小説家,"nhà văn, tiểu thuyết gia"
+〜家,nhà
+〜機,máy
+息子,con trai mình
+息子さん,con trai người khác
+娘,con gái mình
+娘さん,con gái người khác
+自分,mình
+将来,tương lai
+しばらく,một lúc
+たいてい,thường thì
+それに,hơn nữa
+それで,vì thế
+ちょっとお願いがあるんですが,tôi có chút việc muốn nhờ
+実は,thực ra
+会話,hội thoại
+うーん,ừ
+お知らせ,thông báo
+参加します,tham gia
+日にち,thời gian (ngày)
+土,thứ bảy
+体育館,nhà thi đấu thể thao
+無料,miễn phí
+誘います,mời
+イベント,True
+ドアが開きます,(cửa) mở
+ドアが閉まります,(cửa) đóng
+電気がつきます,(điện) sáng
+電気が消えます,(điện) tắt
+いすが壊れます,(ghế) hỏng
+コップが割れます,(cốc) vỡ
+木が折れます,(cây) gãy
+紙が破れます,(giấy) rách
+服が汚れます,(quần áo) bẩn
+ポケットがつきます,có gắn (túi)
+ボタンが外れます,"(nút) bung, rời"
+車が止まります,"(xe) dừng, đỗ"
+まちがえます,nhầm lẫn
+を落とします,"đánh rơi, thả xuống"
+かぎがかかります,(khoá) đóng
+ふきます,"lau, chùi"
+取り替えます,thay
+片付けます,dọn dẹp
+お皿,dĩa
+ちゃわん,"bát, chén"
+コップ,cốc
+ガラス,ly
+ふくろ,túi
+書類,giấy tờ
+枝,cành cây
+駅員,nhân viên nhà ga
+交番,đồn cảnh sát
+スピーチをします,diễn thuyết
+返事をします,trả lời
+お先にどうぞ,mời ai đó cứ về trước
+今の電車,chuyến tàu điện vừa chạy qua
+忘れ物,đồ bỏ quên
+このくらい,"tầm này, khoảng chừng này"
+〜がわ,phía~
+ポケット,túi
+〜辺,chỗ~
+覚えていません,tôi không nhớ
+網棚,giá để hành lí
+確か,chắc là
+ああ、よかった,tốt quá
+地震,động đất
+壁,tường
+針,kim đồng hồ
+指します,chỉ
+駅前,trước gia
+倒れます,đổ
+西,phía tây
+〜の方,bên~
+燃えます,cháy
+レポーター,phóng viên
+はります,dán
+掛けます,treo
+かざります,trang trí
+並べます,sắp xếp
+植えます,trồng
+戻します,để lại
+まとめます,thu dọn (hành lí)
+しまいます,cất
+決めます,quyết định
+予習します,chuẩn bị bài
+復習します,ôn tập
+そのままにします,để nguyên như thế
+授業,giờ học
+講義,bài giảng
+ミーティング,cuộc họp
+予定,"dự định, kế hoạch"
+お知らせ,thông báo
+ガイドブック,sách hướng dẫn du lịch
+カレンダー,lịch
+ポスター,poster
+予定表,lịch làm việc
+ゴミ箱,thùng rác
+人形,búp bê
+花瓶,"bình hoa, lọ qua"
+鏡,gương
+引き出し,ngăn héo
+玄関,"lối vào nhà, sảnh vào nhà"
+廊下,hành lang
+壁,tường
+池,"ao, hồ"
+元のところ,chỗ cũ
+周り,xung quanh
+真ん中,chính giữa
+隅,góc
+まだ,vẫn
+リュック,ba lô
+非常袋,túi khẩn cấp (dựng vật dụng trong trường hợp khẩn cấp)
+非常時,trường hợp khẩn cấp
+生活します,"sinh hoạt, sống"
+懐中電灯,đèn pin
+〜とか、〜とか,"như là~, như là~"
+丸い,tròn
+ある〜,~ nọ
+夢を見ます,mơ
+嬉しい,vui
+嫌（な）,"ghét, không thích"
+すると,khi dó
+目が覚めます,"thức giấc, tỉnh giấc"
+続けます,tiếp tục
+見つけます,tìm
+休みをとります,xin (nghỉ)
+試験を受けます,dự (thi)
+申し込みます,đăng kí
+休憩します,nghỉ giải lao
+連休,ngày nghỉ liên tục
+作文,bài tập làm văn
+発表,phát biểu
+展覧会,cuộc triển lãm
+結婚式,lễ cưới
+お葬式,đám tang
+式,lễ
+本社,trụ sở chính
+支店,chi nhánh
+教会,nhà thờ
+大学院,cao học
+動物園,sở thú
+温泉,suối nước nóng
+帰り,chiều về
+お子さん,con (dùng nói về con ngừoi khác)
+~ の方,phía
+〜号,số hiệu~
+ずっと,suốt
+残ります,"ở lại, còn"
+入学試験,kì thi đầu vào
+月に,(trong) một tháng
+村,làng
+卒業します,tốt nghiệp
+映画館,rạp phim
+嫌（な）,chán
+空,bầu trời
+閉じます,nhắm
+都会,thành phố
+子どもたち,"trẻ con, bọn trẻ"
+自由に,thoải mái
+運動します,vận động
+成功します,thành công
+試験に失敗します,trượt (kì thi)
+試験に合格します,đỗ (kì thi)
+雨がやみます,tạnh mưa
+晴れます,quang dãng
+曇ります,có mây
+熱が続きます,sốt kéo dài
+かぜをひきます,bị cảm
+冷やします,"làm mát, làm lạnh"
+道が込みます,đường đông
+道がすきます,đường vắng
+試合に出ま tham gia trận dấu,True
+パーティーに出ます dự tiệc,True
+無理をします,gắng sức
+十分（な）,đủ
+おかしい,"kì lạ, thú vị"
+うるさい,ồn ào
+先生,bác sĩ
+やけどをします,bỏng
+けがをします,bị thương
+"""""""せきをします""",True
+"""せきが出ます""""""",ho
+インフルエンザ,cúm
+空,bầu trời
+太陽,mặt trời
+星,sao
+かぜ,gió
+東,đông
+西,tây
+南,nam
+北,bắc
+〜国際,True
+水道,nước máy
+エンジン,động cơ
+チーム,đội
+今夜,tối nay
+夕方,chiều tối
+まえ,trước
+遅く,muộn
+こんなに,như thế này
+そんなに,"như thế đó, như thế đấy (những điều, vật liên quan đến người nghe)"
+あんなに,"như thế kia (những điều, vật không liên quan đến cả người nghe và người nói)"
+ヨーロッパ,châu Âu
+元気,khoẻ
+胃,dạ dày
+ストレス,căng thẳng
+それはいけませんね,"thế thì ko được, ko tốt"
+星占い,bói sao
+牡牛座,sao Kim ngưu
+働きすぎ,làm việc quá sức
+困ります,khó khăn
+宝くじ,"vé sổ, sổ xố"
+宝くじが当たります,trúng số
+健康,sức khoẻ
+恋愛,tình yêu
+恋人,người yêu
+ラッキーアイテム,thức được cho làm đem lại vận may trong bói toán
+石,"hòn đó, viên đá"
+逃げます,trốn
+騒ぎます,làm ồn
+諦めます,"bỏ cuộc, từ bỏ"
+投げます,ném
+守ります,giữ (lời hứa) tuân thủ (quy tắc)
+式が始まります,bắt đầu (lễ)
+会議に出席します,tham dự (họp）
+伝えます,"nói lại, truyền đại lại"
+車に注意します,chú ý (xe ô tô)
+席を外します,rời (ghế)
+戻ります,"trở lại, quay trở lại"
+電話があります,có điện thoại
+リサイクルします,tái chế
+だめ（な）,không được
+同じ,giống
+警察,đồn cảnh sát
+席,"ghế, chỗ (ngồi)"
+マーク,kí hiệu
+ボール,bóng
+締切,"hạn chót, hạn cuối"
+規則,quy tắc
+危険,nguy hiểm
+使用禁止,cấm sử dụng
+立入禁止,cấm vào
+徐行,"chạy chậm, đi chậm"
+入口,lối vào
+出口,lối ra
+非常口,cửa thoát hiểm
+無料,miễn phí
+割引,giảm giá
+飲み放題,buffet nước
+使用中,đang sử dụng
+募集中,đang tuyển
+〜中,đang~
+どういう〜,~như thế nào
+いくら（〜ても）,(dù có) ~ bao nhiêu đi nữa
+もう,nữa (dùng với thể phủ định)
+後〜,còn ~
+〜ほど,khoảng ~
+駐車違反,đỗ xe sai quy định
+罰金,tiền phạt
+地震,động đất
+起きます,xảy ra
+助け合います,giúp đỡ lẫn nhau
+元々,"vốn là, nguyên là"
+悲しい,buồn
+もっと,hơn
+挨拶をします,chào hỏi
+相手,đối phương
+気持ち,tâm trạng
+歯を磨きます,"đánh răng, đánh giày"
+組み立てます,lắp ráp
+折ります,"gập, bẻ"
+忘れ物に気がつきます,"để ý đến, chú ý đến"
+しょうゆをつけます,chấm xì dầu
+かぎが見つかります,tìm thấy (chìa khoá)
+質問します,hỏi
+傘をさします,che (ô)
+スポッツクラブ,câu lạc bộ thể thao
+（お）城,thành
+説明書,sách hướng dẫn
+図,hình vẽ minh hoa
+線,đường kẻ
+矢印,mũi tên (kí hiệu)
+黒,màu đen
+白,màu trắng
+赤,màu đỏ
+青,màu xanh
+紺,màu xanh sẫm
+黄色,màu vàng
+茶色,màu nâu
+しょうゆ,xì dầu
+ソール,nước sốt
+お客（さん）,vị khách
+〜 か 〜,hay là
+ゆうべ,tối qua
+さっき,lúc nãy
+茶道,trà đạo
+お茶を建てます,đánh trà
+先に,trước
+載せます,để lên
+これでいいですか,như thế này có được không
+いかがですか,như thế nào ạ
+苦い,đắng
+親子どんぶり,món cơm gồm có thịt gà và trứng để trong tô lớn
+材料,nguyên liệu
+〜分,phần ~ (biểu thị lượng)
+ーグラム,gram
+ー個,cái
+玉ねぎ,hành tây
+４分の１,một phần tư
+調味料,gia vị
+適当な大きさに,độ lớn thích hợp
+なべ,nồi
+火,lửa
+火にかけます,bắc lên bếp
+煮ます,nấu
+煮えます,chín
+どんぶり,bát tô lớn
+たちます,trôi qua (thời gian)
+花が咲きます,(hoa) nở
+色が変わります,(màu) thay đổi
+困ります,khó khăn
+まるをつけます,đánh dầu tròn
+病気が治ります,khỏi bệnh
+故障が直ります,được sửa xong
+クリックします,click chuột
+入力します,nhập vào
+正しい,đúng
+向こう,"đằng ấy, phía đối diện"
+しま,đảo
+港,cảng
+近所,hàng xóm
+屋上,tầng thượng
+海外,nước ngoài
+山登り,leo núi
+歴史,lịch sử
+機会,cơ hội
+許可,sự cho phép
+丸,dấu tròn
+ふりがな,chữ kana biểu thị cách đọc của chữ Hán
+設備,thiết bị
+レバー,"cần, cần gạt"
+キー,phím
+カーテン,rèm cửa
+ひも,sợi dây
+炊飯器,nồi cơm điện
+葉,lá
+昔,ngày xưa
+もっと,hưn nữa
+これで終わりましょう,chúng ta dừng ở đây nhé
+それなら,"nếu thế thì, nếu vây thì"
+夜行ブス,xe bus đêm
+さあ,"à, ờ, dùng ở đâu câu"
+旅行社,công ty du lịch
+詳しい,"cụ thể, chi tiết"
+スキー場,khu trượt tuyết
+朱,màu đỏ tươi
+ことわざ,"chơi vơi, quen với"
+関係,quan hệ
+仲良くします,chơi thân
+必要（な）,cần thiết
+事故にあいます,gặp (tai nan)
+貯金します,tiết kiệm tiền
+７時をすぎます,quá (7 giờ)
+仕事に慣れます,quen với công việc
+食べ物が腐ります,"bị hỏng, bị thiu, bị ôi"
+剣道,kiếm đạo
+柔道,Judo
+ラッシュ,tăc đường
+宇宙,vũ trụ
+曲,"ca khúc, bản nhạc"
+毎週,hàng tuần
+毎月,hàng tháng
+毎年,hàng năm
+このごろ,dạo này
+やっと,cuối cùng thì cũng
+かなり,khá
+必ず,nhất định
+絶対に,tuyệt vời
+上手に,giỏi
+できるだけ,trong khả năng có thể
+ほとんど,"hầu hết, phần lớn (trong câu khẳng định, gần nhuư hoàn toàn (trong câu phủ định)"
+お客様,quý khách
+特別（な）,đặc biệt
+していらっしゃいます,đang làm
+水泳,bơi
+違います,khác nhau
+使っていらっしゃするんですね,đang dùng
+チャレンジします,"thử sức, thử làm"
+気持ち,tâm thế
+乗り物,phương tiện đi lại
+ー世紀,thế kỉ
+遠く,nơi xa
+珍しい,hiếm
+汽車,tàu lửa chạy
+汽船,tàu thuỷ chạy bằng hơi nước
+大勢の〜,nhiều ~ (dùng cho người)
+運びます,vận chuyển
+利用します,sử dụng
+理由に,thoải mái
+褒めます,khen
+しかります,mắng
+誘います,"mời, rủ"
+招待します,mời
+頼みます,nhờ
+注意します,nhắc nhở
+とります,lấy cắp
+踏みます,dẫm
+壊します,làm hỏng
+汚します,làm bẩn
+行います,tổ chức
+輸出します,xuất khẩu
+輸入します,nhập khẩu
+翻訳します,biên dịch
+発明します,"giải thích, thuyết trình"
+発見します,phát hiện
+米,gạo
+麦,lúa mạch
+石油,dầu mỏ
+原料,nguyên liệu
+インスタントラーメン,"mỳ ăn liền, mì gói"
+デート,hẹn hò
+泥棒,kẻ trộm
+警官,cảnh sát
+世界中,trên toàn thế giới
+〜中,~ toàn
+〜世紀,~ thế kỉ
+なに語,tiếng gì
+誰か,ai đó
+よかったですか,hay quá nhỉ / vui quá nhỉ
+皆様,quý vị
+うちが焼けます,cháy (nhà)
+その後,sau đó
+世界遺産,di sản thế giới
+〜の一つ,một trong nhữung
+金色,màu (của) vàng
+本物,đồ thật
+金色,vàng
+ーキロ,~ kilogram
+美しい,đẹp
+豪華（な）,"sang trọng, hoành tráng"
+彫刻,điêu khắc
+言い伝え,truyền thuyết
+眠ります,ngủ
+彫ります,khắc
+仲間,đồng nghiệo
+しかし,nhưng
+そのあと,sau đó
+一生懸命,"chăm chỉ, gắng hết sức"
+ねずみ,chuột
+一匹もいません,không có một con nào cả
+旅行に参加します,tham gia (đi du lịch)
+育てます,chăm sóc
+運びます,vận chuyển
+入院します,nhập viện
+退院します,ra viện
+電源を入れます,bật (điện nguồn)
+電源を切ります,tắt (điện nguồn)
+鍵をかけます,khoá (ổ khoá)
+嘘をつきます,nói dối
+気持ちがいい,tâm trạng tốt
+気持ちが悪い,tâm trạng không tốt
+大きな,"lớn, to"
+小さな,"bé, nhỏ"
+赤ちゃん,em bé
+小学校,trường tiểu học
+中学校,trường trung học
+駅前,trước ga
+海岸,bờ biển
+工場,nhà máy
+村,làng
+かな,chữ Kana
+指輪,nhẫn
+電源,điện nguồn
+習慣,"thói quen, tập quán"
+健康,sức khoẻ
+〜 製,hàng~
+おととし,năm kia
+（あ）いけない,không được ròi (dùng khi làm nhầm hay thất bại việc gì đó)
+お先に（失礼します）,tôi xin phép về trước
+回覧,tài liệu thông báo
+研究室,phòng nghiên cứu
+きちんと,ngay ngắn
+整理します,sắp xếp
+方法,phương pháp
+〜という,có tên gọi là ~
+ー冊,"quyển, cuốn"
+はんこ,con dấu
+はんこを押します,đóng dấu
+双子,sinh đôi
+姉妹,chị em
+５年生,năm thứ 5
+似ています,giống
+性格,tính cách
+おとなしい,ngoan ngoãn
+優しい,hiền lành
+世話をします,chăm sóc
+時間が経ちます,thời gian trôi
+最好き（な）,rất thích
+ー点,điểm
+気が強い,tính cách mạnh mẽ
+けんかします,cãi nhau
+不思議（な）,kỳ lạ
+年齢,tuổi tác
+しかた,cách làm
+質問に答えます,trả lời (câu hỏi)
+ビルが倒れます,đổ (toà nhà)
+道を通ります,đi (xuyên) qua đường
+死にます,chết
+びっくりします,giật mình
+がっかりします,thất vọng
+安心します,yên tâm
+けんかします,cãi nhau
+離婚します,li hôn
+太ります,béo ra
+やせます,gầy đi
+複雑な,phức tạp
+邪魔な,"vướng víu, vướng"
+硬い,cứng
+柔らかい,mềm
+汚い,bẩn
+嬉しい,vui
+悲しい,buồn
+恥ずかしい,"xấu hổ, ngượng"
+首相,thủ tướng
+地震,động đất
+津波,sóng thần
+台風,bão
+雷,sấm
+火事,hoả hoạn
+事故,"tai nạn, sự số"
+ハイキング,dã ngoại
+お見合い,xem mặt (để kết hôn)
+操作をします,thao tác
+会場,hội trường
+〜代,"~ phí, tiền ~"
+〜屋,người bán ~
+フロント,lễ tân
+ー号室,số phòng ~
+タオル,khăn tắm
+せっけん,xà phòng
+大勢,nhiều người
+お疲れ様でした,anh chị đã vất vả quá
+伺います,tôi sẽ đi đến chỗ anh chị khiêm của 行きます
+途中で,trên đường
+トラック,xe tải
+ぶつかります,đâm nhau
+大人,người lớn
+しかし,nhưng
+また,"hơn nữa, và"
+洋服,áo quần
+西洋化します,Âu Mỹ hoá
+合います,phù hợp (với)
+今では,"bây giờ, hiện nay"
+成人式,lễ thành nhân
+伝統的,mang tính truyền thống
+数えます,đếm
+はかります,"đo, cân"
+確かめます,xác nhận
+サイズが合います,vừa (cỡ)
+出発します,xuất phát
+到着します,đến
+酔います,say rượu
+うまく行きます,thuận lợi
+問題が出ます,có (nội dung câu hỏi thi/0
+相談します,"nói chuyện, thảo luận"
+必要な,cần thiết
+天気予報,dự báo thời tiết
+忘年会,"tiệc cuối năm, tiệc tất niên"
+新見解,tiệc đầu năm
+二次会,"tăng hai, hiệp hai"
+発表会,buổi phát biểu
+大会,"hội thi, cuộc thi"
+マラソン,ma-ra-tông
+コンテスト,cuộc thi
+おもて,mặt phải
+裏,mặt trái
+間違い,sai sót
+きず,vết thương
+ズボン,quần
+お年寄り,"người già, người cao tuổi"
+長さ,chiều dài
+重さ,trọng lượng
+高さ,chiều cao
+大きさ,"kích thước, độ lớn"
+ー便,chuyến
+ー個,"- cái, - chiếc (trợ số từ dùng để đếm vật nhỏ)"
+ー本,"- cái, - cây, - chiếcvật có hình dạng thon dài"
+ー杯,"- cốc, - ly"
+ーセンチ,- xăng ti mét
+ーミリ,- milimet
+ーグラム,- gram
+〜以上,trên ~
+〜以下,dưới ~
+どうでしょうか,như thế nào ạ
+テスト,bài kiểm tra
+成績,thành tích
+ところで,nhân tiện
+いらっしゃいます,đến (kính ngữ きます）
+様子,"bộ dạng, tình hình"
+事件,vụ án
+オートバイ,mô tô phân khối lớn
+爆弾,bom
+積みます,chất lên
+運転手,"tài xế, lái xe"
+離れた,"xa, cách xa"
+急に,đột nhiên
+動かします,di chuyển
+一生懸命,"chăm chỉ, gắng hết sức"
+犯人,tên tội phạm
+男,người đàn ông
+手に入れます,"có được, mua được"
+今でも,ngay cả bây giờ
+いただきます,nhận (khiêm nhường của もらいます）
+くださいます,cho (kính ngữ của くれます)
+やります,"cho (dùng với người kém tuổi hơn, người dưới, động vật, thực vật)"
+上げます,tăng
+下げます,giảm
+親切にします,"thân thiện, thân thiết"
+可愛い,dễ thương
+珍しいい,hiếm
+お祝い,"chúc mừng, quà mừng （をします）"
+お年玉,tiền mừng tuổi
+お見舞い,"thăm hỏi, quà thăm hỏi"
+kpopに興味がある,"hứng thú với, có quan tâm đến"
+情報,thông tin
+文法,ngữ pháp
+発音,phát âm
+さる,con khỉ
+えさ,thức ăn
+おもちゃ,đồ chơi
+絵本,sách tranh
+絵はがき,"bưu thiếp tranh, bưu thiếp ảnh"
+ドライバー,tua vít
+ハンカチ,khăn tay
+靴下,"tất, vớ"
+手袋,găng tay
+幼稚園,trường mầm non
+暖房,máy sưởi
+冷房,máy lạnh
+温度,nhiệt độ
+祖父,ông mình
+祖母,bà mình
+孫,cháu mình
+お孫さん,cháu người khác
+おじ,"chú, bác mình"
+おじさん,chú người khác
+おば,"cô, dì, bác mình"
+おばさん,"cô, dì bác người khác"
+管理人,người quản lí
+〜さん,"ông~/bà~ (tiếp vĩ ngữ dùng đằng sau tên nghề nghiệp, chức danh để biểu thị tính lịch sự)"
+この間,vừa rồi
+一言,đôi lời
+〜ずつ,từng~
+二人,"cặp đôi, hai người"
+お宅,nhà (kính ngữ của うち いえ）
+どうぞお幸せに,chúc hai người hạnh phúc
+昔話,truyện cổ tích
+ある〜,một ~ nọ
+男,người con trai
+子供たち,"những đứa trẻ, bọn trẻ"
+いじめます,bắt nạt
+かめ,con rùa
+助けます,"giúp, giúp đỡ"
+優しい,hiền lành
+お姫様,nàng công chúc
+暮らします,sinh sống
+陸,đất liền
+すると,khi đó
+煙,khói
+真っ白（な）,trắng toát
+中身,đồ ở bên trong
+包みます,gói
+沸かします,đun sôi
+混ぜます,trộn
+計算します,tính toán
+並びます,xếp hàng
+丈夫（な）,chắc chắn
+アパート,phòng trọ
+弁護士,luật sư
+音楽家,"nhạc, người hoạt động trong lĩnh vực âm nhạc"
+子供たち,"những đứa trẻ, bọn trẻ"
+自然,tự nhiên
+教育,giáo dục
+文化,văn hoá
+社会,xã hội
+政治,chính trị
+法律,pháp luật
+戦争,chiến tranh
+平和,hoà bình
+目的,mục đích
+論文,luận văn
+楽しみ,niềm vui
+ミキサー,máy xay
+やかん,ấm đun nước
+ふた,nắp
+栓抜き,cái bật nắp chai
+缶切り,cái mở nắp hộp
+缶積み,"đồ hộp, thực phẩm đóng hộp"
+のし袋,phong bì dùng để bỏ tiền mừng
+ふろしき,khăn vuông để gói đồ kiểu Nhật
+そろばん,bàn bính
+体温計,nhiệt kế
+材料,nguyên liệu
+ある〜,một ~ nọ
+一生懸命,"chăm chỉ, gắng hết sức"
+なぜ,tại sao
+どのくらい,bao nhiêu
+国連,Liên Hợp Quốc
+子供ニュース,bản tin thiếu nhi
+ボーナスが出ます,có (thưởng)
+半分,một nửa
+ローン,khoản vay ngân hàng
+カップめん,mỳ ăn liền
+世界初,đầu tiên trên thế giới
+〜によって,bởi ~
+どんぶり,bát tô lớn
+めん,mì sợi
+広めます,"phổ cập, nhân rộng, mở rộng"
+市場調査,điều tra thị trường
+割ります,"bẻ ra, chia nhỏ ra"
+注ぎます,đổ vào
+輸出が増えます,xuất khẩu tăng
+輸出が減ります,xuất khẩu giảm
+値段が上がります,giá cả tăng
+値段が下がります,giá cả giảm
+ひもが切れます,sợi dây bị đứt
+ボタンがとれます,cúc áo bị đứt
+荷物が落ちます,hành lí bị rơi
+ガソリンがなくなります,"xăng hết, mất"
+変（な）,lạ
+幸せ（な）,hạnh phúc
+楽（な）,"nhàn, nhàn nhã"
+うまい,ngon
+まずい,dở
+つまらない,"chán, không hay"
+優しい,hiền lành
+ガソリン,xăng
+火,lửa
+パンフレット,tờ rơi quảng cáo
+今にも,bất kì lúc nào (dùng miêu tả trạn thái ngay trước khi biến đổi xảy ra
+わあ,True
+ばら,hoa hồng
+ドライバ,lái xe ô tô (sở thích)
+理由,lí do
+謝ります,xin lỗi
+知り合います,quen biết
+泣きます,khóc
+笑います,cười
+眠ります,ngủ
+シャツが乾きます,(áo sơ mi) khô
+シャツがぬれます,(áo sơ mi) ướt
+滑ります,trượt
+事故が起きます,(tai nạn) xảy ra
+調節します,điều chỉnh
+安全（な）,an toàn
+危険（な）,nguy hiểm
+濃い,"đặc, đậm"
+薄い,"loãng, nhạt"
+厚い,dày
+太い,"đậm, béo"
+細い,"nhạt, gầy"
+空気,không khí
+涙,nước mắt
+和食,món ăn kiểu Nhật
+洋食,món ăn kiểu Tây
+量,lượng
+ー倍,gấp ~ lần
+シングル,phòng đơn
+ツイン,phòng đôi
+洗濯物,đồ giặt
+DVD,DVD
+どうなさいますか,chị muốn làm gì
+カット,cắt tóc
+シャンプ,dầu gội
+シャンプをします,gội đầu
+どういうふうになさいますか,chị muốn cắt như thế nào
+ショート,cắt ngắn
+〜みたいにしてください,anh hãy cắt như ~
+これでよろしいですか,như thế này được chưa aj
+どうもお疲れ様でした,"xong rồi ạ, cám ơn chị (nhân viên nói với khách hàng"
+嫌がります,"ghét, không thích"
+また,hơn nữa
+うまく,"tốt, giỏi"
+順序,trình tự
+安心（な）,yên tâm
+表現,"biểu hiện, cách nói"
+例えば,ví dụ
+別れます,chia tay
+これら,những từ này
+縁起が悪い,"xui, không may"
+信じます,tin
+キャンセルします,huỷ
+知らせます,thông báo
+保証書,phiếu bảo hành
+領収書,hoá đơn
+キャンプ,cắm trại
+中止,huỷ
+点,"điểm, điểm số"
+梅,hoa mơ
+１１０番,sđt báo cảnh sát
+１１９番,sđt báo cháy
+急に,đội nhiên
+無理に,"cố, gắng (làm không hợp lí)"
+楽しみにしています,tôi rất mong chờ
+以上です,xin hết
+係員,người phụ trách
+コース,đường chạy ma-ra-tông
+スタート,xuất phát
+ー位,thứ -
+優勝します,chiến thắng
+悩み,"điều bận tậm, điều khổ tâm"
+目指し（時計）,(đồng hồ) báo thức
+目が覚めます,"tỉnh giấc, thức giấc"
+大学生,sinh viên đại học
+回答,câu trả lời
+鳴ります,kêu
+セットします,đặt (giờ)
+それでも,"kể cả như thế, mặc dù như thế"
+渡します,"đưa, trao"
+帰ってきます,trở về
+バスが出ます,"xuất phát, rời bến (xe bus~)"
+荷物が届きます,(hành lí) đến
+大学に入学します,nhập học đai học
+大学を卒業します,tốt nghiệp đaị học
+焼きます,nướng
+パンが焼けます,nướng chín (bánh mì ~)
+肉が焼けます,nước chín (thịt ~)
+留守,"vắng nhà, đi vắng"
+宅配便,"hàng được chuyển phát tận nhà, dịch vụ"
+原因,nguyên nhân
+こちら,"phía tôi, tôi"
+〜のところ,chỗ ~
+半年,nửa năm
+ちょうど,"vừa đúng, đúng"
+たった今,"vừa mới (dùng với thể quá khứ, biểu thị sự hoàn thành"
+今いいですか,bây giờ có nói chuyện được không
+ガスサービスセンタ,trung tâm dịch vụ cung ứng ga
+ガスレンジ,bếp ga
+具合,"tình trạng, trạng thái"
+申し訳ありません,xin lỗi
+どちら様でしょうか,ai đấy ạ
+お待たせしました,xin lỗi đã bắt anh/chị chờ lâu
+向かいます,đi đến đấy
+ついています,may mắn
+床,sàn
+転びます,ngã
+ベル,chuông cửa
+鳴ります,"reng, kêu"
+慌てて,vội vàng
+順番に,theo thứ tự
+出来事,sự việc
+風が吹きます,gió thổi
+ゴミが燃えます,rác cháy
+なくなります,qua đời (từ nói tránh của 死にます）
+人が集まります,tập trung (người ~)
+人が別れます,chia tay (người~)
+音/声がします,có tiếng/ âm thanh
+味がします,có vị
+匂いがします,có mùi
+厳しい,nghiêm khắc
+ひどい,khủng khiếp
+怖い,sợ đáng sợ
+実験,thực nghiệm
+データ,dữ liệu
+人口,dân số
+匂い,mùi
+科学,khoa học
+医学,y học
+文学,văn học
+パトカー,xe tuần tra cảnh sát
+救急車,xe cấp cứu
+賛成,tán thành
+反対,phản đổi
+大統領,tổng thống
+〜によると,theo ~ (biểu thị nguồn thông tin)
+婚約します,"đính ước, ăn hỏi"
+どうも,có vẻ như (được dùng khi biểu thị sự suy đoán)
+恋人,người yêu
+相手,"đối phương, hôn phu, hôn thê"
+知り合います,quen biết
+化粧をします,trang điểm
+世話をします,chăm sóc
+女性,"phụ nữ, nữ"
+男性,"nam giới, nam"
+長生きします,"thọ, sống lâu"
+理由,lí do
+関係,quan hệ
+降ろします,lấy xuống
+届けます,"đưa đến, chuyển đến"
+世話をします,chăm sóc
+録音します,ghi âm
+いや（な）,"chán, không thích"
+塾,"lò luyện thi, nơi học thêm"
+生徒,học sinh
+ファイル,file tài liệu
+自由に,"tự do, thoải mái"
+〜間,trong khoảng ~
+いいことですね,điều đó hay quá nhỉ
+お忙しいですか,anh/ chị có bận không (được dùng khi hỏi người trên)
+営業,kinh doanh
+それまでに,cho đến lúc đấy
+構いません,không sao
+楽しみます,tận hưởng
+親,bố mẹ
+小学生,học sinh tiểu học
+ーパーセント,- phần trăm
+その次,tiếp theo đó
+習字,học viết chữ bằng bút lông
+普通の,"thông thường, bình thường"
+利用します,sử dụng
+会社に勤めます,làm việc (ở công ty)
+椅子にかけます,ngồi xuống (ghế)
+過ごします,trải qua
+いらっしゃいます,"います、行きますở, đi, đến (kính ngữ)"
+召し上がります,"食べます、飲みますăn, uống (kính ngữ/9"
+おっしゃいます,"言いますnói, tên là (kính ngữ)"
+なさいます,しますlàm (kính ngữ)
+ご覧に鳴ります,見ますxem (kính ngữ)
+ご存じです,知っていますbiết (kính ngữ
+挨拶,"chào hỏi, lời chào mừng"
+旅館,nhà khách kiểu Nhật truyền thống
+バス停,bến xe buýt
+奥様,奥さん
+"""vợ của người khác (kính ngữ)""""""",True
+〜様,kính ngữ của さん
+たまに,thi thoảng
+どなたでも,誰でもvị nào cũng (kính ngữ)
+〜と言います,tên là ~
+ー年ー組,tổ - năm thứ -
+熱を出します,bị (sốt)
+よろしくあ伝えください,cho tôi gửi lời hỏi thăm
+失礼致します,失礼しますxin phép thầy tôi cúp máy ạ
+経歴,lí lịch
+医学部,khoa y
+目指します,"hướng đến, muốn trở thành"
+進みます,học lên
+iPS細胞,tế bào iPS
+開発します,phát triển
+マウス,chuột
+ヒト,người
+受賞します,nhận giải tưởng
+講演会,buổi nói chuyện
+まいります,"行きますđi, đến (khiêm nhường)"
+おります,います
+いただきます,"食べます、飲みます、もらいますăn, uống, nhận (khiêm nhường)"
+申します,"言いますnói, tên là (khiêm nhường)"
+いたします,しますlàm (khiêm nhường)
+拝見します,見ますnhìn (khiêm nhường)
+存じます,しりますbiết (khiêm nhường)
+伺います,"聞きます、行きますhỏi, đến thăm (khiêm nhường)"
+お目にかかります,あいますgặp (khiêm nhường)
+コーヒーを入れます,pha (cà phê)
+用意します,chuẩn bị sẵn
+私,私(khiêm nhường)
+ガイド,hướng dẫn viên du lịch
+メールアドレス,dịa chỉ email
+スケジュール,lịch làm việc
+再来週,tuần sau nữa
+再来月,tháng sau nữa
+再来年,năm sau nữa
+はじめに,"trước hết, đầu tiên"
+緊張します,hồi hộp
+賞金,tiền thưởng
+きりん,hươu cao cổ
+ころ,"lúc, thời"
+夢がかないます,thành hiện thực (mơ ước ~)
+応援します,động viện
+心から,từ đáy lòng
+感謝します,cám ơn
+お礼,cám ơn
+お元気でいらっしゃいますか,お元気ですかanh chị có khoẻ không(kính ngữ)
+迷惑をかけます,làm phiền
+生かします,phát huy
