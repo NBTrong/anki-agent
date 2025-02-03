@@ -35,6 +35,6 @@ def convert_txt_to_csv(input_file, output_file):
                     csv_writer.writerow([kanji, meaning])
 
 if __name__ == "__main__":
-    input_file = Path(__file__).parent.parent / "data" / "full_25_50.txt"
-    output_file = Path(__file__).parent.parent / "data" / "full_25_50.csv"  # Tên file output mong muốn
+    input_file = Path(__file__).parent.parent / "data" / "goi_n3.txt"
+    output_file = Path(__file__).parent.parent / "data" / "goi_n3.csv"  # Tên file output mong muốn
     convert_txt_to_csv(input_file, output_file)

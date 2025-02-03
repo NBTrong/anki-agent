@@ -82,7 +82,7 @@ if __name__ == "__main__":
     try:
         flashcard_generator = FlashcardGenerator(target_language="Japanese", native_language="Vietnamese")
         # Read words from csv file
-        with open(f"{os.path.dirname(os.path.abspath(__file__))}/../data/full_25_50.csv", "r") as file:
+        with open(f"{os.path.dirname(os.path.abspath(__file__))}/../data/goi_n3.csv", "r") as file:
             words = file.read().splitlines()
             words = [word.split(",") for word in words]
             words = [{"word": word[0], "meaning": word[1]} for word in words]
@@ -91,7 +91,7 @@ if __name__ == "__main__":
         chunks = [words[i:i+10] for i in range(0, len(words), 10)]
         
         # Create DataFrame to store all flashcards
-        output_path = f"{os.path.dirname(os.path.abspath(__file__))}/../data/flashcards.xlsx"
+        output_path = f"{os.path.dirname(os.path.abspath(__file__))}/../data/flashcards_goi_n3.xlsx"
         
         # Check if file exists and read existing data
         if os.path.exists(output_path):
