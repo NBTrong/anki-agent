@@ -1,4 +1,3 @@
-import json
 import os
 from typing import Optional
 from pydantic import Field
@@ -6,21 +5,10 @@ from pydantic import Field
 from phi.agent import Agent, RunResponse
 from phi.utils.pprint import pprint_run_response
 from phi.model.openai import OpenAIChat
-from phi.knowledge.agent import AgentKnowledge
-from phi.storage.agent.postgres import PgAgentStorage
-from phi.tools.duckduckgo import DuckDuckGo
-from phi.vectordb.pgvector import PgVector, SearchType
 
 from agents.settings import agent_settings
-from db.session import db_url
 from pydantic import BaseModel, Field
 import pandas as pd
-from phi.tools.crawl4ai_tools import Crawl4aiTools
-from phi.tools.duckduckgo import DuckDuckGo
-import urllib.parse
-from bs4 import BeautifulSoup
-import lxml
-from tools.search_image import get_images_for_word
 from typing import Iterator
 
 
@@ -39,13 +27,13 @@ class GrammarList(BaseModel):
 class GrammarGenerator(Agent):
     target_language: str = Field(default="English")
     native_language: str = Field(default="Vietnamese")
-    related_sentence_agent: Agent = Field(default=None)
+    grammar_agent: Agent = Field(default=None)
 
     def __init__(self, target_language: str = "English", native_language: str = "Vietnamese"):
       super().__init__()
       self.target_language = target_language
       self.native_language = native_language
-      self.related_sentence_agent = Agent(
+      self.grammar_agent = Agent(
         name="Related Sentence generator Agent",
         agent_id="related_sentence_generator",
         model=OpenAIChat(
@@ -75,8 +63,8 @@ class GrammarGenerator(Agent):
       )
 
     def run(self, word: str):
-        return self.related_sentence_agent.run(word, stream=True)
-        # self.related_sentence_agent.print_response(word, stream=True)
+        return self.grammar_agent.run(word, stream=True)
+        # self.grammar_agent.print_response(word, stream=True)
     
 
 if __name__ == "__main__":

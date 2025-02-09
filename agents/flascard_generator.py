@@ -1,4 +1,3 @@
-import json
 import os
 from typing import Optional
 from pydantic import Field
@@ -6,20 +5,11 @@ from pydantic import Field
 from phi.agent import Agent, RunResponse
 from phi.utils.pprint import pprint_run_response
 from phi.model.openai import OpenAIChat
-from phi.knowledge.agent import AgentKnowledge
-from phi.storage.agent.postgres import PgAgentStorage
-from phi.tools.duckduckgo import DuckDuckGo
-from phi.vectordb.pgvector import PgVector, SearchType
+
 
 from agents.settings import agent_settings
-from db.session import db_url
 from pydantic import BaseModel, Field
 import pandas as pd
-from phi.tools.crawl4ai_tools import Crawl4aiTools
-from phi.tools.duckduckgo import DuckDuckGo
-import urllib.parse
-from bs4 import BeautifulSoup
-import lxml
 from tools.search_image import get_images_for_word
 from typing import Iterator
 
@@ -56,17 +46,19 @@ class FlashcardGenerator(Agent):
         description=f"""An AI assistant specialized in generating contextually relevant and natural example sentences 
           for vocabulary words in {self.target_language}, helping {self.native_language} native speakers learn the language.""",
         instructions=[
-          f"You are a helpful assistant that generates example sentences for {self.target_language} vocabulary words.",
+          f"You are a helpful assistant that generates memorable and impactful example sentences for {self.target_language} vocabulary words.",
           f"Your target audience are native {self.native_language} speakers learning {self.target_language}.",
           "For each word provided:",
-          "1. Create 2-3 natural, contextually appropriate example sentences",
-          "2. Ensure sentences are clear, concise, and demonstrate proper word usage",
-          "3. Use common scenarios and situations that learners can relate to",
-          "4. Avoid complex grammar or rare vocabulary in the examples",
-          "5. Make sentences memorable and meaningful",
-          "6. Include different forms of the word if applicable (verb tenses, plural/singular, etc.)",
-          "7. For each example sentence, provide its translation in the native language on the next line",
-          "8. Return only the example sentences and their translations, without any additional explanations",
+          "1. Create 2-3 vivid and memorable example sentences that create strong mental images",
+          "2. Use emotional, humorous, or surprising elements to make sentences more memorable",
+          "3. Include relatable scenarios from daily life but with unexpected twists",
+          "4. Connect sentences to sensory experiences (visual, auditory, tactile) when possible",
+          "5. Use storytelling elements like mini-narratives or interesting characters",
+          "6. Incorporate mnemonics or word associations when appropriate",
+          "7. Ensure sentences are still natural and grammatically correct",
+          "8. Keep vocabulary simple except for the target word",
+          "9. For each example sentence, provide its translation in the native language on the next line",
+          "10. Return only the example sentences {self.target_language} and their translations {self.native_language}, without any additional explanations",
         ],
         debug=True,
         response_model=FlashcardList,
@@ -82,7 +74,7 @@ if __name__ == "__main__":
     try:
         flashcard_generator = FlashcardGenerator(target_language="Japanese", native_language="Vietnamese")
         # Read words from csv file
-        with open(f"{os.path.dirname(os.path.abspath(__file__))}/../data/goi_n3.csv", "r") as file:
+        with open(f"{os.path.dirname(os.path.abspath(__file__))}/../data/new-grammar.csv", "r") as file:
             words = file.read().splitlines()
             words = [word.split(",") for word in words]
             words = [{"word": word[0], "meaning": word[1]} for word in words]
@@ -91,7 +83,7 @@ if __name__ == "__main__":
         chunks = [words[i:i+10] for i in range(0, len(words), 10)]
         
         # Create DataFrame to store all flashcards
-        output_path = f"{os.path.dirname(os.path.abspath(__file__))}/../data/flashcards_goi_n3.xlsx"
+        output_path = f"{os.path.dirname(os.path.abspath(__file__))}/../data/new-grammar.xlsx"
         
         # Check if file exists and read existing data
         if os.path.exists(output_path):
@@ -102,9 +94,9 @@ if __name__ == "__main__":
         for i, chunk in enumerate(chunks):
             try:
                 chunk_flashcards: list[Flashcard] = []
-                prompt = ""
+                prompt = "Please generate 2 example sentences for each word and its meaning at Vietnamese"
                 for j, word in enumerate(chunk):
-                    prompt += f"{i*10 + j + 1}. Word: {word['word']}, Meaning: {word['meaning']}\n"
+                    prompt += f"{i*10 + j + 1}. Word: {word['word']} - Meaning: {word['meaning']}\n"
                 response: Iterator[RunResponse] = flashcard_generator.run(prompt)
                 pprint_run_response(response, markdown=True, show_time=True)
                 
@@ -113,9 +105,9 @@ if __name__ == "__main__":
                     chunk_flashcards.extend(response.content.flashcards)
                 
                 # Get image for each flashcard in the chunk
-                for flashcard in chunk_flashcards:
-                    flashcard.image_url = get_images_for_word(flashcard.word)[0]
-                    print(flashcard.image_url)
+                # for flashcard in chunk_flashcards:
+                #     flashcard.image_url = get_images_for_word(flashcard.word)[0]
+                #     print(flashcard.image_url)
 
                 # Convert chunk to DataFrame
                 chunk_df = pd.DataFrame([{
